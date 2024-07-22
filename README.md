@@ -1,4 +1,5 @@
-## 后台管理常见的拖拽式快捷方式
+## 简介
+使用vue-draggable实现双向拖拽并可进行排序
 
 ## Project setup
 
